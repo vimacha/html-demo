@@ -1,0 +1,17 @@
+		body{
+
+			background-color: green;
+		}
+	.wrap{
+		font-family: sans-serif;
+		margin:auto;
+		width:600px;
+		
+	}
+
+	blockquote{
+
+		border: 2px solid red;
+		text-align: center;
+		padding: 4px;
+	}
